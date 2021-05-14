@@ -15,7 +15,7 @@ preview-swf files: https://drive.google.com/file/d/1mD7Ja3-ytTDk0kiWec9iZ-9OqwRu
 https://drive.google.com/file/d/1mosfTZt9DS5jlqus9KpWZbs7F6lT2x1_/view?usp=sharing
 ver. 12_0r0_77_win_sa_debug
 
-Creted: Nov 24 2012
-Last updated: Apr 4 2013
+Creted: Jan 2 2013
+Last updated: Jan 4 2013
 
-2012-2013
+2013
